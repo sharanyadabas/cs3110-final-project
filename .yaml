@@ -1,0 +1,26 @@
+---
+group:
+  - name: Erdis Brahimi
+    netid: eb697
+  - name: Sharanya Dabas
+    netid: sd699
+  - name: Matt McAuley
+    netid: mwm223
+pm:
+  name: Parth Sarkar
+  netid: ps679
+publish: true
+title: "Caml Capital (CC)"
+git-repo: "https://github.coecis.cornell.edu/mwm223/cs3110-final-project"
+demo-video-url: ""
+desc: >
+  Our project is an interactive (beta) version of the classic Monopoly Game.
+  Our game currently supports gameplay with four players, with the current
+  functionality allowing each player to roll a "dice" and then either choose to 
+  purchase the properties that they land on if they are up for sale or 
+  forcing them to pay "rent" when they land on another player's property. The 
+  interface displays the game information by noting which properties each 
+  player owns, their position on the board, and their Monopoly Money balance at 
+  the end of each round.
+
+  Standard visual I/O is supported.

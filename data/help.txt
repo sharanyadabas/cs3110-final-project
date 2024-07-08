@@ -1,0 +1,16 @@
+Welcome to Caml Capital!
+
+Players: A minimum of 2 players is required to start the game. If you wish to omit additional players during setup, simply press Enter when prompted.
+
+Rolling the Dice: To roll the dice and advance on the board, press Enter. Your fate lies just a roll away!
+
+Buying Properties: Interested in a property you've landed on? Type "BUY" to make it yours. Wise investments can lead to victory!
+
+Game Objective: Be cautious with your finances! The game ends when a player goes bankrupt. Aim to be the last mogul standing to win.
+
+Dev Mode: For developers and cheaters alike! This mode allows the players to choose which position they want to move to. Enter it by typing "DEV" in
+start screen!
+
+Best of luck in your real estate endeavors in Caml Capital!
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------

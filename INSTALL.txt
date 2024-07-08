@@ -1,0 +1,4 @@
+How to run our code:
+
+- In the terminal type: opam install ansiterminal csv
+- In the terminal type: dune exec bin/main.exe
